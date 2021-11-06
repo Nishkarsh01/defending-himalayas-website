@@ -6,7 +6,7 @@ Through this project we will get into CSS topics like Media Queries, Responsive 
 
 Please feel free to contribute, and ask questions if you have any.
 
-The websiteis published at [Test](https://nishkarsh01.github.io/defending-himalayas-website/)
+The website is published at [Test](https://nishkarsh01.github.io/defending-himalayas-website/)
 
 
 # To do
