@@ -17,5 +17,6 @@ Please feel free to contribute, and ask questions if you have any.
 - [ ] develop navbar (common in all webpages) 
 - [ ] develop footer (common in all web pages)
 
-
-![Website under development](https://media.giphy.com/media/ocuQpTqeFlDOP4fFJI/giphy.gif)
+<center>
+  ![Website under development](https://media.giphy.com/media/ocuQpTqeFlDOP4fFJI/giphy.gif)
+</center>
