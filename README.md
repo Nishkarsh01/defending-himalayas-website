@@ -10,10 +10,10 @@ Please feel free to contribute, and ask questions if you have any.
 
 # to do
 
-- [] The Website design will be similar to: [Website Design](https://nifty-bohr-a9a59c.netlify.app/)
-- [] Please use the draw.io flowchart in this repository for urther reference [(How to open a draw.io files)](https://www.wikihow.com/Open-a-Draw-Io-File)
-- [] develop navbar (common in all webpages) 
-- [] develop footer (common in all web pages)
+- [ ] The Website design will be similar to: [Website Design](https://nifty-bohr-a9a59c.netlify.app/)
+- [ ] Please use the draw.io flowchart in this repository for urther reference [(How to open a draw.io files)](https://www.wikihow.com/Open-a-Draw-Io-File)
+- [ ] develop navbar (common in all webpages) 
+- [ ] develop footer (common in all web pages)
 
 
 ![Website under development](https://media.giphy.com/media/ocuQpTqeFlDOP4fFJI/giphy.gif)
