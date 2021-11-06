@@ -18,5 +18,7 @@ Please feel free to contribute, and ask questions if you have any.
 - [ ] develop footer (common in all web pages)
 
 <center>
-  ![Website under development](https://media.giphy.com/media/ocuQpTqeFlDOP4fFJI/giphy.gif)
+
+![Website under development](https://media.giphy.com/media/ocuQpTqeFlDOP4fFJI/giphy.gif)
+
 </center>
