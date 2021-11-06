@@ -11,7 +11,7 @@ Please feel free to contribute, and ask questions if you have any.
 # To do
 
 - [ ] The Website design will be similar to: [Website Design](https://nifty-bohr-a9a59c.netlify.app/)
-- [ ] Please use the draw.io flowchart in this repository for urther reference [(How to open a draw.io files)](https://www.wikihow.com/Open-a-Draw-Io-File)
+- [ ] Please use the draw.io flowchart in this repository for further reference [(How to open a draw.io files)](https://www.wikihow.com/Open-a-Draw-Io-File)
 - [ ] Please join our WhatsApp group for more real time communication [Defending Himalayas- Project](https://chat.whatsapp.com/FMv6iKUEbxu0I4DxbE6NYc)
 - [ ] Please make sure to look at the issues section
 - [ ] develop navbar (common in all webpages) 
