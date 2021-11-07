@@ -37,6 +37,11 @@ ul {
 img {
   width: 100%;
 }
+h1{
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
 
 h1,
 h2,
@@ -271,4 +276,42 @@ p {
 
 #main-footer .footer-container input[type='submit'] {
   width: 90%;
+}
+#main-nav{
+  background:#fff;
+  position:sticky;
+  top: 0;
+  z-index: 9;
+}
+#title{
+  color: #1da64a;
+}
+#nav-container{
+  display: grid;
+    grid-template-columns: 6fr 3fr 2fr;
+    padding: 1rem;
+    align-items: center;
+}
+#nav-buttons-container{
+  display: flex;
+}
+.buttons-nav{
+  text-align: center;
+  width: 65px;
+  padding: 2px;
+}
+/* for contact us because of a bug */
+.buttons-nav2{
+  text-align: center;
+  width: 80px;
+  padding: 2px;
+}
+#contact-us{
+  text-align: left;
+  width: 70px;
+}
+.current{
+  background: #1da64a;
+  color: #fff;
+  padding: 12px;
 }
