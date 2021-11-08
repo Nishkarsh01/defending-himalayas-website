@@ -15,8 +15,10 @@ The website is published at [Test](https://nishkarsh01.github.io/defending-himal
 - [ ] Please use the draw.io flowchart in this repository for further reference [(How to open a draw.io files)](https://www.wikihow.com/Open-a-Draw-Io-File)
 - [ ] Please join our WhatsApp group for more real time communication [Defending Himalayas- Project](https://chat.whatsapp.com/FMv6iKUEbxu0I4DxbE6NYc)
 - [ ] Please make sure to look at the issues section
-- [ ] develop navbar (common in all webpages) 
-- [ ] develop footer (common in all web pages)
+- [x] develop navbar (common in all webpages) 
+- [x] develop footer (common in all web pages)
+- [ ] develop the index.html webpage
+- [ ] develop the contact.html webpage
 
 <center>
 
