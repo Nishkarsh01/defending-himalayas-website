@@ -379,6 +379,19 @@ input[type=submit]:hover {
   width: 104px;
   padding: 2px;
 }
+.buttons-nav :not(.current):hover{
+  color: green;
+  font-weight: 700;
+}
+.buttons-nav2:hover, #contact-us :not(.current):hover{
+  color: green;
+  font-weight: 700;
+  width: 80.5px;
+}
+.buttons-nav2 :hover{
+  color: green;
+}
+
 
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
